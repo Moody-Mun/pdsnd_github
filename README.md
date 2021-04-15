@@ -6,10 +6,12 @@ Project is created on 15.04.2021.
 bikeshare_2.py
 
 ### Description
-Describe what your project is about and what it does
-
+This project allows user to analyse big data sets of a bike sharing company for different cities (chicago, washington and new york city).
+Therefore the user should insert Inputs regarding city, month and day of the week to get filtered data and some statistics about user stats, trip duration stats, station stats and time stats.
 ### Files used
-Include the files used
+chicago.csv\
+washington.csv\
+new_york_city.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
