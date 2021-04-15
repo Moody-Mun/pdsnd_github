@@ -14,5 +14,9 @@ washington.csv\
 new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Some helpful support for the used functions in bikeshare_2.py
+idxmax():\
+https://stackoverflow.com/questions/53037698/how-can-i-find-the-most-frequent-two-column-combination-in-a-dataframe-in-python
 
+converting seconds into days,hous,minutes,seconds:\
+https://im-coder.com/python-funktion-zum-konvertieren-von-sekunden-in-minuten-stunden-und-tage.html
