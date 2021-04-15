@@ -12,7 +12,11 @@ Therefore the user should insert Inputs regarding city, month and day of the wee
 chicago.csv\
 washington.csv\
 new_york_city.csv
-
+### Used Python Modules
+numpy\
+pandas\
+datetime\
+time\
 ### Credits
 Some helpful support for the used functions in bikeshare_2.py
 idxmax():\
