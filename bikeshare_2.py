@@ -232,8 +232,8 @@ def main():
         city, month, day = get_filters()    # creates the filters Data after User Input
         df = load_data(city, month, day)    # loads data from .csv files
         output_snips_of_data(df)            # prints out first 5 rows of the data set and asks of outputting 5 more after each successfully User Input
-        time_stats(df)                      # calc of time stats
         station_stats(df)                   # calc of station stats
+        time_stats(df)                      # calc of time stats
         trip_duration_stats(df)             # calc of trip duration stats
         user_stats(df)                      # calc of user stats
 
@@ -241,7 +241,9 @@ def main():
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
+            print("Ok - have a nice Day!")
             break
+
 
 
 if __name__ == "__main__":
